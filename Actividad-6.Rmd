@@ -23,11 +23,20 @@ View(mpg)
 filter(mpg, year==2008&hwy>31)
 ```
 
+\fbox{\begin{minipage}{48em}
+Bien!
+\end{minipage}}
+
 ### 2)
 
 ```{r echo=TRUE}
 filter(mpg, cty==9|hwy>90)
 ```
+
+
+\fbox{\begin{minipage}{48em}
+Bien!
+\end{minipage}}
 
 ### 3)
 
@@ -35,3 +44,7 @@ filter(mpg, cty==9|hwy>90)
 filter(mpg, )
 ```
 
+
+\fbox{\begin{minipage}{48em}
+Actividad sin terminar. Mirar solución PUNTOS:1/10
+\end{minipage}}
